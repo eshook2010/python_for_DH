@@ -13,7 +13,7 @@ You will need to download the following based on your operating system:
 - [ ] Anaconda - https://www.anaconda.com/products/individual 
 - [ ] Download owyhee-canyonlands-wilderness-B.txt and save on your Desktop 
 
-## Schedule: 
+## Let's Get Started!
 
 ### Jupyter Notebook
 - Open Jupyter Notebooks
