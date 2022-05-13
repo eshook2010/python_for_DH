@@ -68,16 +68,16 @@ Type of Respondent
 State Agencies
 
 1) Idaho Division of Highways, Dist. 3
-2) Idaho Department. of Fish & Game, Region 3
+2) Idaho dept. of Fish & Game, Region 3
 3) Oregon , of Transportation, Parks & Rec. Div,
 4) Nevada Division of State Lands
-5) Nevada Department. of Wildlife
-6) Idaho Department, of Water Resources
+5) Nevada dept. of Wildlife
+6) Idaho dept, of Water Resources
 Federal Agencies
 
 1) Soil Conservation Service
 2) Bureau of Indian Affairs, Eastern Nevada Agency
-3) Department, of Energy, Bonneville Power Administration
+3) dept, of Energy, Bonneville Power Administration
 Environmental Organizations
 
 1) Mazamas
@@ -182,17 +182,17 @@ VI-3
 I 2. Federal Agencies
 I
 I
-Department of Agriculture:
+dept of Agriculture:
 
 U.S. Forest Service
 U.S. Soil Conservation Service
-Department of Defense:
+dept of Defense:
 
 U.S. Air Force
-Department of Energy:
+dept of Energy:
 Bonneville Power Administration
 
-Department of the Interior:
+dept of the Interior:
 National Park Service
 
 u.s. Bureau of Indian Affairs
@@ -200,39 +200,39 @@ u.s. Bureau of Reclamation
 U.S. Bureau of Mines
 u.s. Fish and Wildlife Service
 U.S. Geological Survey
-Department of Transportation:
+dept of Transportation:
 Federal Aviation Administration
 
 Environmental Protection Agency
 
 3. State Agencies, Commissions or Boards
-Idaho Department of Agriculture
-Idaho Department of Fish and Game
-Idaho Department of Health, Welfare and Environmental Services
-Idaho Department of Lands
-Idaho Department of Parks and Recreation
-Idaho Department of Transportation
-Idaho Department of Water Resources
+Idaho dept of Agriculture
+Idaho dept of Fish and Game
+Idaho dept of Health, Welfare and Environmental Services
+Idaho dept of Lands
+Idaho dept of Parks and Recreation
+Idaho dept of Transportation
+Idaho dept of Water Resources
 Idaho Historic Preservation Office
 Idaho Public Utilities Commission
 Idaho State Clearing House
 Idaho Outfitters and Guides Board
 
 Nevada Bureau of Mines
-Nevada Department of Conservation and Natural Resources
-Nevada Department of Wildlife
+Nevada dept of Conservation and Natural Resources
+Nevada dept of Wildlife
 Nevada Historicai Preservation Office
 Nevada Legislative Council Bureau
 Nevada State Indian Commission
 Nevada State Planning Coordinator's Office
 
-Oregon Department of Agriculture
-Oregon Department of Energy
-Oregon Department of Environmental Quality
-Oregon Department of Fish and Wildlife
-Oregon Department of Forestry
-Oregon Department of Geology and Mineral Industries
-Oregon Department of Transportation
+Oregon dept of Agriculture
+Oregon dept of Energy
+Oregon dept of Environmental Quality
+Oregon dept of Fish and Wildlife
+Oregon dept of Forestry
+Oregon dept of Geology and Mineral Industries
+Oregon dept of Transportation
 
 VI-4
 
@@ -254,7 +254,7 @@ Oregon State Soil and Water Conservation Commission
 4. Local Agencies
 Elko County Planning Commission
 Elko County Manager
-Malheur County Planning Department
+Malheur County Planning dept
 Malheur County Historical Society
 Owyhee County Historic Society
 
@@ -525,7 +525,7 @@ Humboldt State University
 Management
 
 2 1/2 years Washington
-State Department. of Resources
+State dept. of Resources
 6 1/2 years with BLM BB
 Range Conservationist and
 Wildlife Biologist
@@ -819,12 +819,12 @@ at Dirty Sha.me rockshelter, southeastern Oregon. Tebiwa,
 Miscellaneous Papers of the Idaho State Museum of Natural History.
 No. 4. Pocatello.
 
-Hendee, Stanley, and Lucas 1978. Wilderness Management, U.S. Department
+Hendee, Stanley, and Lucas 1978. Wilderness Management, U.S. dept
 of Agriculture, Forest Service, miscellaneous publication no. 1365.
 
 t'
 
-' Idaho Department of Parks and Recreation 1977. Idaho Outdoor Recreation
+' Idaho dept of Parks and Recreation 1977. Idaho Outdoor Recreation
 Plan,
 
 Michalson, E.L. and Joel Hamilton 1973. A Methodology Study to Develop
@@ -840,24 +840,24 @@ Economic Impact Study. Prepared for the Colorado River Outfitters
 Assoc., The American Wilderness Alliance, and the Western River
 Guides Assoc.
 
-U.S. Department of Agriculture, Forest Service 1983. IMPLAN, computer
+U.S. dept of Agriculture, Forest Service 1983. IMPLAN, computer
 model for regional input -output analysis.
-U.S. Department of Commerce, Bureau of Economic 1983. Local Area
+U.S. dept of Commerce, Bureau of Economic 1983. Local Area
 Personal Income 1976-81, Vol. 8 Rocky Mountain Region; Vol. 9 Far
 West Region.
-U.S. Department of Commerce, 1983. Employment By Type and Broad
+U.S. dept of Commerce, 1983. Employment By Type and Broad
 Industrial Sources 1976-81; Owyhee County, Idaho; Malheur County,
 Oregon; Elko County, Nevada.
-U.S. Department of Commerce, Bureau of the Census. 1978 Census of
+U.S. dept of Commerce, Bureau of the Census. 1978 Census of
 Agriculture, State and County Data; Idaho; Oregon; Nevada.
-U.S. Department of the Interior, Bureau of Land Management 1980. Owyhee
+U.S. dept of the Interior, Bureau of Land Management 1980. Owyhee
 Grazing Environmental Impact Statement Final.
-U,S, Department of the Interior, Bureau of Land Management 1981,
+U,S, dept of the Interior, Bureau of Land Management 1981,
 Wilderness Management Policy.
 
-U.S. Department of the Interior, Bureau of Land Management 1982.
+U.S. dept of the Interior, Bureau of Land Management 1982.
 Bruneau-Kuna Grazing Environmental Impact Statement Final.
-u.s. Department of the Interior, Bureau of Land Management 1982.
+u.s. dept of the Interior, Bureau of Land Management 1982.
 Wilderness Study Policy.
 R-1
 
@@ -865,7 +865,7 @@ R-1
 TT..T--T ----T---... -..... T , ... T .....,.._..._..,..,...._____
 
 
-u.s. Department of the Interior, Fish and Wildlife Service 1980.
+u.s. dept of the Interior, Fish and Wildlife Service 1980.
 National Survey of Fishing, Hunting and Wildlife-Associated
 Recreation; Idaho, Oregon, Nevada.
 Walsh, Richard, Gray Ericson, Daniel Aristguy, and Michael Hansen 1980.
